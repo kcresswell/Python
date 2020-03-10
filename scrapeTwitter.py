@@ -4,10 +4,10 @@ import time
 
 # Authenticate to Twitter
 
-consumer_key = "v6s8XoRvcyztT0c943MI0upaZ"
-consumer_secret = "83aps60heRgWAWKHr4kfhakXh4PcylbO0dBHRRPDqeuYcRKiSq"
-access_token = "2839069588-FEHe8nHmf1W81MIPkeo7CkNEegqHuq6yzZuGnjD"
-access_token_secret = "1lstY1oh1S25ecKUdwteTxTnkbskBeEzIahFcwHJKDMdK"
+consumer_key = "a"
+consumer_secret = "b"
+access_token = "c"
+access_token_secret = "d"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret) 
